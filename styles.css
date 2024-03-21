@@ -1,0 +1,107 @@
+
+ /* unvisited link*/
+ a:link {
+    color: rgb(241, 128, 188);
+    }
+ /*visited link*/
+    a:visited {
+        color: blueviolet;
+    }
+/* mouse over link */
+    a:hover {
+        color: lightskyblue;
+    }
+/*selected link */
+    a:active {
+        color:blue
+    }
+
+*{
+    background-color: rgb(253, 245, 250);
+}
+
+h1{
+    background-color:lightskyblue;
+    color: white;
+    text-align: center;
+}
+h2{
+    color:lightskyblue;
+    text-align: center;
+}
+h3{
+    color: lightskyblue;
+    text-align: center;
+}
+#Werkervaring{ 
+    text-align: center;
+    width: 250%;
+    margin-left: -500px;
+}
+#contact{
+    text-align: center;
+    
+}
+#trainingen{
+    text-align: center;
+    
+}
+
+#opleiding{
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: lightskyblue;
+    height: 50px;
+    width: 100px;
+    font-size: large;
+    text-align: center;
+}
+#foto
+{       
+    margin-left: 44%;
+        border:10px solid rgb(241, 128, 188);
+        border-top-color: lightskyblue;
+        border-bottom-color: lightskyblue;
+        border-right-color: rgb(241, 128, 188);
+        border-radius: 10px;
+        width: fit-content;
+        height: 200px;
+        ;}
+
+p{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+
+#overig{ width: 143%}
+
+ul{
+    width: 35%;
+    margin:auto;
+    }
+    ul li {
+            padding:0.4rem;
+            text-align:left
+            
+            }
+
+            .opties{
+                position: relative;
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+                color: lightskyblue;
+    
+              }
+table{
+    position: relative;
+    margin-left: 39%;
+}
+td, th{
+    border: 1px lightskyblue solid;
+    padding: 8px;
+    position: relative;
+    margin-left: 50%;
+        }
